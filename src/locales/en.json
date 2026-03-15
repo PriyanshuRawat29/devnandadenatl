@@ -1,0 +1,165 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "reviews": "Reviews",
+        "why_choose_us": "Why Choose Us",
+        "book_appointment": "Book Appointment"
+    },
+    "hero": {
+        "title": "Your Smile,",
+        "our_priority": "Our Priority",
+        "subtitle": "Experience world-class dental care with a gentle touch. We are dedicated to restoring and enhancing the natural beauty of your smile.",
+        "view_services": "View Services"
+    },
+    "about": {
+        "sub_heading": "About Us",
+        "title": "Caring for Your Smile with Excellence",
+        "text_1": "At Devnanda Dental Clinic, we believe that a healthy smile is the foundation of a happy life. Led by Dr. Pritam, our team of dedicated professionals uses the latest technology to provide comfortable and effective treatments.",
+        "text_2": "We understand that visiting the dentist can be stressful for some, which is why we've designed our clinic to be a sanctuary of calm and comfort. Your well-being is our top priority.",
+        "exp_years": "15+",
+        "exp_text": "Years of Experience",
+        "list_1": "State-of-the-art Technology",
+        "list_2": "Comfortable & Relaxing Environment",
+        "list_3": "Highly Qualified Team",
+        "button": "Meet Our Team"
+    },
+    "services": {
+        "heading": "Our",
+        "span": "Dental Care",
+        "services_text": "Services",
+        "description": "Providing Complete Oral Health Solutions for Every Smile",
+        "footer_1": "Experienced Dentists",
+        "footer_2": "Advanced Technology",
+        "footer_3": "Pain-Free & Comfortable",
+        "items": {
+            "general": "General Dentistry",
+            "general_desc": "Check-ups, Fillings & Preventive Care",
+            "cleaning": "Teeth Cleaning",
+            "cleaning_desc": "Plaque Removal & Bright Smile",
+            "root_canal": "Root Canal",
+            "root_canal_desc": "Painless Treatment & Tooth Preservation",
+            "cosmetic": "Cosmetic Dentistry",
+            "cosmetic_desc": "Veneers, Whitening & Smile Makeover",
+            "pediatric": "Pediatric Dentistry",
+            "pediatric_desc": "Kid-Friendly Care & Healthy Teeth"
+        }
+    },
+    "comparison": {
+        "sub_heading": "Metal Braces Vs Invisalign",
+        "title": "Choosing the Right Treatment for You",
+        "description": "Both options have their own advantages. Let's compare them to help you make an informed decision.",
+        "metal_title": "Metal Braces",
+        "invisalign_title": "Invisalign",
+        "pros": "Pros",
+        "cons": "Cons",
+        "metal_pros": [
+            "Relatively affordable"
+        ],
+        "metal_cons": [
+            "Traps food around the braces",
+            "Requires more effort in daily brushing",
+            "May have to avoid certain foods",
+            "More discomfort from brackets and wire",
+            "Requires more visits to the dentist"
+        ],
+        "invisalign_pros": [
+            "Almost invisible",
+            "Easy to clean the teeth",
+            "No food restriction",
+            "Much more comfortable as there are no wire",
+            "Requires fewer visits to the dentist"
+        ],
+        "invisalign_cons": [
+            "More costly due to the advanced 3D technology"
+        ]
+    },
+    "cleaning": {
+        "sub_heading": "Professional Cleaning",
+        "title": "Results for Heavy Stains & Calculus",
+        "description": "Experience the transformation. Our professional cleaning removes deep-seated stains and stubborn calculus for a healthier, brighter smile.",
+        "before": "Before",
+        "after": "After",
+        "before_label": "Heavy Stains & Calculus",
+        "after_label": "Sparkling Clean & Healthy",
+        "benefit_1_title": "Effective Stain Removal",
+        "benefit_1_desc": "Remove tea, coffee, and tobacco stains instantly.",
+        "benefit_2_title": "Calculus Elimination",
+        "benefit_2_desc": "Prevent gum disease by removing hard tartar build-up.",
+        "benefit_3_title": "Polished Finish",
+        "benefit_3_desc": "Smooth, clean surfaces that prevent future plaque accumulation."
+    },
+    "reviews": {
+        "heading": "Our",
+        "span": "Happy Patients",
+        "description": "See What People Are Saying About Our Dental Care",
+        "write_review": "Write a Review",
+        "read_more": "Read More Reviews",
+        "verified_patient": "Verified Patient",
+        "form": {
+            "title": "Share Your Experience",
+            "name": "Your Name",
+            "name_placeholder": "Enter your name",
+            "rating": "Rating",
+            "review_text": "Your Review",
+            "review_placeholder": "How was your experience with us?",
+            "submit": "Submit Review",
+            "cancel": "Cancel",
+            "stars_5": "5 Stars - Excellent",
+            "stars_4": "4 Stars - Very Good",
+            "stars_3": "3 Stars - Good",
+            "stars_2": "2 Stars - Fair",
+            "stars_1": "1 Star - Poor"
+        },
+        "default_reviews": {
+            "seema": "I had a great experience at Devnanda Clinic. The cleaning was painless and the staff was very professional.",
+            "mohit": "Highly recommend Dr. Pritam for any dental issues. He explained the root canal procedure clearly and it was much easier than I expected.",
+            "jitendra": "The clinic is very modern and hygienic. I'm very happy with my smile makeover. Best dentist in the area!"
+        }
+    },
+    "why_choose_us": {
+        "sub_heading": "Why Choose Us",
+        "title": "Experience the Difference",
+        "items": {
+            "dentists_title": "Experienced Dentists",
+            "dentists_desc": "Our team brings years of expertise and continuous learning to treat you better.",
+            "equipment_title": "Modern Equipment",
+            "equipment_desc": "We utilize the latest dental technology for precise and painless treatments.",
+            "hygienic_title": "Hygienic Clinic",
+            "hygienic_desc": "We strictly adhere to sterilization protocols to ensure a safe environment.",
+            "affordable_title": "Affordable Care",
+            "affordable_desc": "Top-quality dental services at transparent and competitive prices."
+        }
+    },
+    "contact": {
+        "sub_heading": "Contact Us",
+        "title": "Get in Touch",
+        "description": "Ready to schedule your appointment? Have any questions? Reach out to us today.",
+        "doctor_name": "Dr. Priyatam Singh Bora",
+        "doctor_role": "B.D.S. | Dental Surgeon",
+        "visit_title": "Visit Us",
+        "visit_address": "Rampur Road, near Hotel Amardeep, Haldwani, Karayalpur Chatursingh, Uttarakhand 263139",
+        "call_title": "Call Us",
+        "email_title": "Email Us",
+        "hours_title": "Opening Hours",
+        "hours_text": "Mon - Sat: 9:00 AM - 7:00 PM",
+        "form_title": "Book an Appointment",
+        "form_name": "Full Name",
+        "form_mobile": "Mobile Number",
+        "form_message": "Purpose / Message",
+        "form_message_placeholder": "I would like to book a check-up...",
+        "form_submit": "Submit Request",
+        "success": "Thank you! We will contact you soon.",
+        "error": "Please fill out all fields."
+    },
+    "footer": {
+        "description": "Your trusted partner for a healthy, beautiful smile. Compassionate care for the whole family.",
+        "quick_links": "Quick Links",
+        "legal": "Legal",
+        "follow_us": "Follow Us",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "rights": "All Rights Reserved."
+    }
+}
