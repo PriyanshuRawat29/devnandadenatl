@@ -25,7 +25,7 @@ const Contact = () => {
             // Build WhatsApp message
             const message = `*New Inquiry from Website*\n\n*Name:* ${formData.fullName}\n*Mobile:* ${formData.mobileNumber}\n*Message:* ${formData.message}`;
             const encodedMessage = encodeURIComponent(message);
-            const whatsappUrl = `https://wa.me/918630672339?text=${encodedMessage}`;
+            const whatsappUrl = `https://wa.me/${t('contact.whatsapp_number')}?text=${encodedMessage}`;
 
             // Open WhatsApp
             window.open(whatsappUrl, '_blank');
@@ -70,7 +70,7 @@ const Contact = () => {
                             <FaPhone />
                             <div>
                                 <h5>{t('contact.call_title')}</h5>
-                                <p>+91 8630672339</p>
+                                <p>{t('contact.phone')}</p>
                             </div>
                         </div>
                         <div className="info-item">
